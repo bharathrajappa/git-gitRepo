@@ -1,6 +1,8 @@
 This is introduction 2.
 
-This is all about git. 
+This is all about git.
+
+Learning must never stop. Now is the time.
 
 Regards,
 Bharath
