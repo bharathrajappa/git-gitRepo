@@ -1,0 +1,5 @@
+This is all about Introduction about GIT
+
+Git is such a wonderfull repository. 
+
+Easy to learn and adapt quickly.
